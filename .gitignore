@@ -36,5 +36,5 @@ Debug
 *.vcxproj.filters
 *.vcxproj.user
 pch.cpp
-pch.h
+*.h
 LeetCode.cpp
