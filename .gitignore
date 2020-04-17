@@ -35,6 +35,6 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
-/pch.cpp
-/pch.h
-/LeetCode.cpp
+pch.cpp
+pch.h
+LeetCode.cpp
